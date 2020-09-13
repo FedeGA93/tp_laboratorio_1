@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1599961362 source:c:\users\fedeg\onedrive\documentos\utn\clases\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aritmeticas.h"
+
+1599961503 source:c:\users\fedeg\onedrive\documentos\utn\clases\tp_laboratorio_1\aritmeticas.c
+	<stdio.h>
+
+1599960848 c:\users\fedeg\onedrive\documentos\utn\clases\tp_laboratorio_1\aritmeticas.h
+
